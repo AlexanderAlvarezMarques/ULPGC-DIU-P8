@@ -94,7 +94,7 @@ public class Principal extends javax.swing.JFrame {
 
         authors.setFont(new java.awt.Font("DejaVu Sans", 2, 12)); // NOI18N
         authors.setForeground(new java.awt.Color(0, 0, 0));
-        authors.setText("Viviana Magali Benitez Sosa & Alexander Álvarez Marques");
+        authors.setText("Alexander Álvarez Marques");
 
         javax.swing.GroupLayout authorsPanelLayout = new javax.swing.GroupLayout(authorsPanel);
         authorsPanel.setLayout(authorsPanelLayout);
@@ -292,7 +292,7 @@ public class Principal extends javax.swing.JFrame {
                 + "<h1>About</h1>"
                 + "<p>Date version: 2020-09-10</p>"
                 + "<p>Version: 0.1</p>"
-                + "<p><b>Viviana Magali Benitez Sosa & Alexander Álvarez Marques</b></p>"
+                + "<p><b>Alexander Álvarez Marques</b></p>"
                 + "</html>";
 
         JOptionPane.showMessageDialog(this, information, "About", JOptionPane.INFORMATION_MESSAGE);
